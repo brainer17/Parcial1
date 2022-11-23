@@ -1,4 +1,4 @@
-package com.procesos.negocio.shirly;
+package com.procesos.negocio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
